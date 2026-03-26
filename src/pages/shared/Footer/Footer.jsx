@@ -30,7 +30,10 @@ const Footer = () => {
 
       {/* Bottom */}
       <div className="bg-black text-white text-center py-4">
-        <p>Copyright © CulinaryCloud. All rights reserved.</p>
+        <p>
+          Copyright © <span className="font-bold">Jothi-Nokrek</span>. All
+          rights reserved.
+        </p>
       </div>
     </footer>
   );

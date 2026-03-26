@@ -17,10 +17,10 @@ const ChefService = () => {
             </h1>
 
             <p className="text-gray-600 text-xs sm:text-sm md:text-base leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Necessitatibus, libero accusamus laborum deserunt ratione dolor
-              officiis praesentium! Deserunt magni aperiam dolore eius dolore
-              at, nihil iusto ducimus incidunt quibusdam nemo.
+              At Bistro Boss, we bring you a unique dining experience with
+              carefully crafted dishes made from the freshest ingredients. Our
+              passion for quality and taste ensures every meal is memorable,
+              combining tradition with modern culinary excellence.
             </p>
           </div>
         </div>
