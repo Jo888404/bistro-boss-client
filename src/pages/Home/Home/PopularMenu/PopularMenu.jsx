@@ -31,6 +31,11 @@ const PopularMenu = () => {
           View Full Menu
         </button>
       </div>
+      <div className="flex items-center justify-center lg:mt-24 w-full lg:h-62.5 h-32 bg-black rounded-lg">
+        <h3 className="lg:text-5xl text-2xl font-semibold">
+          Call Us: +88 0192345678910
+        </h3>
+      </div>
     </section>
   );
 };

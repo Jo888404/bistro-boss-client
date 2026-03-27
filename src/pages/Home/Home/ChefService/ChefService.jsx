@@ -3,11 +3,13 @@ const ChefService = () => {
     <section className="w-full lg:mt-24 pt-4">
       <div className="relative w-full h-50  md:h-100 lg:h-125 overflow-hidden">
         {/* Background Image */}
-        <img
+        {/* <img
           src="/images/chef-service.jpg"
           alt="Chef Service"
-          className="w-full h-full object-cover"
-        />
+          className="w-full h-full object-cover "
+        /> */}
+
+        <div className="bg-[url('/images/chef-service.jpg')] w-full h-full object-cover bg-fixed"></div>
 
         {/* Overlay */}
         <div className="absolute inset-0 flex items-center justify-center px-4">
